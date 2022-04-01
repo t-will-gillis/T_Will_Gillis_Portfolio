@@ -1,7 +1,7 @@
 # T_Will_Gillis_Portfolio
 Portfolio
 
-# Project 1: Date-A-Scientist
+# Project 1: [Date-A-Scientist](https://github.com/t-will-gillis/portfolio-ok_cupid_date-a-scientist/blob/main/date-a-scientist.ipynb)
 
 **Main goal:** Create machine learning models to make a prediction about OKCupid users. In the real world, the OKCupid app uses predictions like this to estimate compatibility among users and then suggest matches. The specific goal here is to compare and contrast the performance of supervised machine learning models to predict the religious preference of users based on other aspects of their profiles. A supplemental -learning- exercise is to see whether a natural language processing model can predict which user wrote a very brief essay. 
 
