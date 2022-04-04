@@ -17,5 +17,5 @@ The Natural Language Processing learning exercise results in a model that makes 
 - **Packages:** pandas, numpy, matplolib, seaborn, sklearn 
 - **Data Source:** Raw data for this project data provided by OKCupid app via Codecademy. 
 
-![](https://github.com/t-will-gillis/T_Will_Gillis_Portfolio/blob/main/images/belief_overall.png)
-![](https://github.com/t-will-gillis/T_Will_Gillis_Portfolio/blob/main/images/confusion.png)
+
+![](/images/confusion.png)
