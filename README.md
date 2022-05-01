@@ -30,4 +30,4 @@ The Natural Language Processing learning exercise results in a model that makes 
 
 **Conclusions:** With Axes3D and the custom processing program, any group of stars can be shown in a true orientation that demonstrates the actual relationship among the sample of stars. For examples, the four primary stars of Betelgeuse, Bellatrix, Rigel, and Saiph are all visualized to be much closer to earth than the belt and other stars.
 
-![](/images/)
+![](/images/orion_3-d.png)
