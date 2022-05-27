@@ -44,6 +44,10 @@ The Natural Language Processing learning exercise results in a model that makes 
 
 **Preprocessing:** The provided data did not include population, therefore population data for the relevant countries/ years were downloaded from UN data via the internet.
 
-**Conclusions:** Adjusting GDP for population (i.e. per capita) shows Mexico performing better than China in life expectancy, and Germany with a near equivalent per capita GDP but longer life expectancy than the US. Chile is outperforming all countries on life expectancy to per capita GDP, which would seem to say that maximizing GDP does not maximize life expectancy by itself.
+**Conclusions:** Adjusting GDP for population (i.e. per capita) shows Mexico performing better than China in life expectancy, and Germany with a near equivalent per capita GDP but longer life expectancy than the US. Chile is outperforming all countries on life expectancy to per capita GDP, which would seem to say that maximizing GDP does not automatically maximize life expectancy.
+
+- **Code:** Python, Jupyter Notebook, Excel
+- **Packages:** matplolib
+- **Data Source:** Raw data for this project data provided by Codecademy, and downloaded from UN data via the internet. 
 
 ![](/images/life-gdp_pc_per_country_per_year.png)
