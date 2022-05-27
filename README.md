@@ -46,4 +46,4 @@ The Natural Language Processing learning exercise results in a model that makes 
 
 **Conclusions:** Adjusting GDP for population (i.e. per capita) shows Mexico performing better than China in life expectancy, and Germany with a near equivalent per capita GDP but longer life expectancy than the US. Chile is outperforming all countries on life expectancy to per capita GDP, which would seem to say that maximizing GDP does not maximize life expectancy by itself.
 
-
+![](/images/life-gdp_pc_per_country_per_year.png)
