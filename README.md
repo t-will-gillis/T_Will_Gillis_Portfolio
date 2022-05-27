@@ -7,7 +7,7 @@ Portfolio
 
 **Preprocessing:** Data preprocessed to select variables, remove null data, clean and sort, add dummy variables, and address label imbalance. Data split into train-test sets.
 
-**Models:** SkLearn's Logistic Regression, K Neighbors Classifier, Decision Tree Classifier, and Random Forest Classifier. (And supplemental Natural Language with Bag of Words and Naive Bayes Classifier)
+**Modules:** SkLearn's Logistic Regression, K Neighbors Classifier, Decision Tree Classifier, and Random Forest Classifier. (And supplemental Natural Language with Bag of Words and Naive Bayes Classifier)
 
 **Conclusion:** The Random Forest Classifier learning method performs best of the four selected classifiers. It has a baseline accuracy score of 52%, which is somewhat successful and better than guessing (where 11% accuracy would be expected.) The model possibly can be refined for better accuracy, however there is a real concern of forcing/ overfitting the data. 
 
@@ -32,4 +32,18 @@ The Natural Language Processing learning exercise results in a model that makes 
 
 **Conclusions:** With Axes3D and the custom processing program, any group of stars can be shown in a true orientation that demonstrates the actual relationship among the sample of stars. For examples, the four primary stars of Betelgeuse, Bellatrix, Rigel, and Saiph are all visualized to be much closer to earth than the belt and other stars. Effective visualization is crucial for data analysts and scientists.
 
+- **Code:** Python, Jupyter Notebook, Excel
+- **Packages:** matplolib, Axes3D
+- **Data Source:** Raw data for this project data provided by Codecademy, and open sourced from the internet. 
+
 ![](/images/orion_3-dr.png)
+
+# Project 3: [Life Expectancy vs GDP](https://github.com/t-will-gillis/gdp_and_life_expectancy/blob/main/life_expectancy_gdp.ipynb) 
+
+**Main goal:** Use Python and Jupyter Notebook to explore relationship between Life Expectancy and GDP for six representative countries over 15 years.
+
+**Preprocessing:** The provided data did not include population, therefore population data for the relevant countries/ years were downloaded from UN data via the internet.
+
+**Conclusions:** Adjusting GDP for population (i.e. per capita) shows Mexico performing better than China in life expectancy, and Germany with a near equivalent per capita GDP but longer life expectancy than the US. Chile is outperforming all countries on life expectancy to per capita GDP, which would seem to say that maximizing GDP does not maximize life expectancy by itself.
+
+
