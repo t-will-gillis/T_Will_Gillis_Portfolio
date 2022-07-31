@@ -54,7 +54,7 @@ The Natural Language Processing learning exercise results in a model that makes 
 
 # Project 4: [Simple Loteria Game](https://github.com/t-will-gillis/loteria-game)
 
-**Description:** This is a link to a zip file for a simple Phaser3 game of Loteria using the phaser3-parcel-template framework from Ourcade/supertommy. 
+**Description:** This is a link to a zip file for a simple Phaser3 game of Loteria, with code built from the base file phaser3-parcel-template framework from Ourcade/supertommy. 
 
 - **Code:** HTML, JavaScript
 - **Packages:** Phaser3 and phaser3-parcel-template
