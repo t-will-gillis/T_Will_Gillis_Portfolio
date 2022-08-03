@@ -1,7 +1,8 @@
 # t Will Gillis Portfolio
 Portfolio
 
-# Project 1: [Date-A-Scientist](https://github.com/t-will-gillis/portfolio-ok_cupid_date-a-scientist/blob/main/date-a-scientist.ipynb)
+# Project 1: [Date-A-Scientist](https://github.com/t-will-gillis/portfolio-ok_cupid_date-a-scientist/blob/main/date-a-scientist.ipynb) 
+## Data Science, Machine Learning
 
 **Main goal:** Using Python and Jupyter Notebook: Create machine learning models to make a prediction about OKCupid users. In the real world, the OKCupid app uses predictions like this to estimate compatibility among users and then suggest matches. The specific goal here is to compare and contrast the performance of supervised machine learning models to predict the religious preference of users based on other aspects of their profiles. A supplemental- and learning only- exercise is to see whether a natural language processing model can predict which user wrote a very brief essay. 
 
@@ -52,7 +53,17 @@ The Natural Language Processing learning exercise results in a model that makes 
 
 ![](/images/life-gdp_pc_per_country_per_year.png)
 
-# Project 4: [Simple Loteria Game](https://github.com/t-will-gillis/loteria-game)
+# Project 4: [Mobile App](https://github.com/t-will-gillis/CBDB)
+
+**Description:** Mobile application, here specifically a 'Comic Book Data Base.' The link is to the index.html, stylesheet.css, main.js files, as well as to the Android APK. 
+
+- **Code:** HTML, CSS, JavaScript, JQuery Mobile, Mondo DB
+- **Packages/ Platforms:** Monaca Mobile App Development Platform
+
+![](/images/loteria_screenshot.png)
+
+
+# Project 5: [Simple Loteria Game](https://github.com/t-will-gillis/loteria-game)
 
 **Description:** This is a link to a zip file for a simple Phaser3 game of Loteria, with code built from the base file phaser3-parcel-template framework from Ourcade/supertommy. 
 
