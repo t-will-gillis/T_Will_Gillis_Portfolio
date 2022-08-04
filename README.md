@@ -2,7 +2,7 @@
 Portfolio
 
 # Project 1: [Date-A-Scientist](https://github.com/t-will-gillis/portfolio-ok_cupid_date-a-scientist/blob/main/date-a-scientist.ipynb) 
-## Data Science, Machine Learning
+### Python, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, sklearn
 
 **Main goal:** Using Python and Jupyter Notebook: Create machine learning models to make a prediction about OKCupid users. In the real world, the OKCupid app uses predictions like this to estimate compatibility among users and then suggest matches. The specific goal here is to compare and contrast the performance of supervised machine learning models to predict the religious preference of users based on other aspects of their profiles. A supplemental- and learning only- exercise is to see whether a natural language processing model can predict which user wrote a very brief essay. 
 
@@ -24,6 +24,7 @@ The Natural Language Processing learning exercise results in a model that makes 
 
 
 # Project 2: [Orion_Constellation](https://github.com/t-will-gillis/orion_constellation/blob/main/constellation.ipynb) and [Supplement](https://github.com/t-will-gillis/orion_constellation/blob/main/supplemental.ipynb)
+### Data Science
 
 **Main goal:** Using Python and Jupyter Notebook to create a 3-dimensional representation of the principal stars in the Orion constellation. By importing matploblib and especially the Axes3D module, the goal is to make an accurate IRW representation of the stars. The star data from the first project comes from Codecademy. The star data from the second Supplement is open-sourced from the internet for astronomical coordinates and distances, and then converted using an Excel file/ .csv to generate a new set of (x,y,z) coordinates to use for plotting. The Supplement file can thus be used to generate a 3-D representation of any group of stars given sky coordinates and distances. The format of the first project comes from Codecademy, but with edits to the data for an improved presentation.
 
@@ -40,6 +41,7 @@ The Natural Language Processing learning exercise results in a model that makes 
 ![](/images/orion_3-dr.png)
 
 # Project 3: [Life Expectancy vs GDP](https://github.com/t-will-gillis/gdp_and_life_expectancy/blob/main/life_expectancy_gdp.ipynb) 
+### Jupyter Notebook, Python, Excel
 
 **Main goal:** Use Python and Jupyter Notebook to explore relationship between Life Expectancy and GDP for six representative countries over 15 years.
 
@@ -60,7 +62,7 @@ The Natural Language Processing learning exercise results in a model that makes 
 - **Code:** HTML, CSS, JavaScript, JQuery Mobile, Mondo DB
 - **Packages/ Platforms:** Monaca Mobile App Development Platform
 
-![](/images/loteria_screenshot.png)
+![](/images/Screenshots.png)
 
 
 # Project 5: [Simple Loteria Game](https://github.com/t-will-gillis/loteria-game)
