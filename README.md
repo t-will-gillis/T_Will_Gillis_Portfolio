@@ -2,7 +2,7 @@
 Portfolio
 
 # Project 1: [Date-A-Scientist](https://github.com/t-will-gillis/portfolio-ok_cupid_date-a-scientist/blob/main/date-a-scientist.ipynb) 
-### Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Sklearn
+#### Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Sklearn
 
 **Main goal:** Using Python and Jupyter Notebook: Create machine learning models to make a prediction about OKCupid users. In the real world, the OKCupid app uses predictions like this to estimate compatibility among users and then suggest matches. The specific goal here is to compare and contrast the performance of supervised machine learning models to predict the religious preference of users based on other aspects of their profiles. A supplemental- and learning only- exercise is to see whether a natural language processing model can predict which user wrote a very brief essay. 
 
@@ -56,11 +56,13 @@ The Natural Language Processing learning exercise results in a model that makes 
 ![](/images/life-gdp_pc_per_country_per_year.png)
 
 # Project 4: [Mobile App](https://github.com/t-will-gillis/CBDB)
-#### HTML, CSS, JavaScript, JQuery Mobile, MongoDB, Monaca Mobile App Platform
+#### HTML, CSS, JavaScript, jQuery Mobile, MongoDB, Monaca Mobile App Platform
 
 **Description:** Mobile application, here specifically a 'Comic Book Data Base.' The link is to the index.html, stylesheet.css, main.js files, as well as to the Android APK. The app features a user registration and login with strong password checking, forms for entering collection data, saving data using MongoDB nonrelational database management system, data edit and retrieval, and logout. 
 
-- **Code:** HTML, CSS, JavaScript, JQuery Mobile, MongoDB
+The app is written within the Monaca Platform using jQuery Mobile JavaScript framework and can be deployed for Android, Apple, Microsoft, or as a Progressive Web App.
+
+- **Code:** HTML, CSS, JavaScript, jQuery Mobile, MongoDB
 - **Packages/ Platforms:** Monaca Mobile App Development Platform
 
 ![](/images/Screenshots.png)
