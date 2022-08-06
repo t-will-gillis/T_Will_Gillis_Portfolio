@@ -1,9 +1,17 @@
 # t Will Gillis Portfolio
 Portfolio
 
-- [Project 4:](#project-4)
-- [Test this](#test-this)
-  - [Overview](#overview)
+# Python Developer Projects:
+- [Project 1:](#project-1-date-a-scientist)
+- [Project 2:](#project-2-orion-constellation-and-supplement)
+- [Project 3:](#project-3-life-expectancy-vs-gdp)
+
+# Software Developer Projects:
+- [Project 4:](#project-4-appointment-maker)
+- [Project 5:](#project-5-concentration)
+- [Project 6:](#project-6-mobile-app)
+- [Project 7:](#project-7-loteria-game)
+
 
 # Project 1: [Date-A-Scientist](https://github.com/t-will-gillis/portfolio-ok_cupid_date-a-scientist/blob/main/date-a-scientist.ipynb) 
 #### Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Sklearn
@@ -27,7 +35,7 @@ The Natural Language Processing learning exercise results in a model that makes 
 
 
 
-# Project 2: [Orion_Constellation](https://github.com/t-will-gillis/orion_constellation/blob/main/constellation.ipynb) and [Supplement](https://github.com/t-will-gillis/orion_constellation/blob/main/supplemental.ipynb)
+# Project 2: [Orion Constellation](https://github.com/t-will-gillis/orion_constellation/blob/main/constellation.ipynb) and [Supplement](https://github.com/t-will-gillis/orion_constellation/blob/main/supplemental.ipynb)
 #### Python, Jupyter Notebook, Excel, Matplotlib, Axes3D
 
 **Main goal:** Using Python and Jupyter Notebook to create a 3-dimensional representation of the principal stars in the Orion constellation. By importing matploblib and especially the Axes3D module, the goal is to make an accurate IRW representation of the stars. The star data from the first project comes from Codecademy. The star data from the second Supplement is open-sourced from the internet for astronomical coordinates and distances, and then converted using an Excel file/ .csv to generate a new set of (x,y,z) coordinates to use for plotting. The Supplement file can thus be used to generate a 3-D representation of any group of stars given sky coordinates and distances. The format of the first project comes from Codecademy, but with edits to the data for an improved presentation.
@@ -59,7 +67,30 @@ The Natural Language Processing learning exercise results in a model that makes 
 
 ![](/images/life-gdp_pc_per_country_per_year.png)
 
-# Project 4: [Mobile App](https://github.com/t-will-gillis/CBDB)
+# Project 4: [Appointment Maker](https://github.com/t-will-gillis/CBDB)
+#### ReactJS, ReduxJS, HTML, CSS, JavaScript 
+
+**Description:**  
+
+
+- **Code:** ReactJS, ReduxJS, JavaScript, HTML, CSS
+
+
+![](/images/Screenshots.png)
+
+# Project 5: [Concentration](https://github.com/t-will-gillis/CBDB)
+#### ReactJS, HTML, CSS, JavaScript
+
+**Description:** 
+
+
+
+- **Code:** ReactJS, JavaScript, HTML, CSS
+
+
+![](/images/Screenshots.png)
+
+# Project 6: [Mobile App](https://github.com/t-will-gillis/CBDB)
 #### HTML, CSS, JavaScript, jQuery Mobile, MongoDB, Monaca Mobile App Platform
 
 **Description:** Mobile application, here specifically a 'Comic Book Data Base.' The link is to the index.html, stylesheet.css, main.js files, as well as to the Android APK. The app features a user registration and login with strong password checking, forms for entering collection data, saving data using MongoDB nonrelational database management system, data edit and retrieval, and logout. 
@@ -72,7 +103,7 @@ The app is written within the Monaca Platform using jQuery Mobile JavaScript fra
 ![](/images/Screenshots.png)
 
 
-# Project 5: [Loteria Game](https://github.com/t-will-gillis/loteria-game)
+# Project 7: [Loteria Game](https://github.com/t-will-gillis/loteria-game)
 #### HTML, JavaScript, Phaser3
 
 **Description:** This is a link to a zip file for a simple Phaser3 game of Loteria, with code built from the base file phaser3-parcel-template framework from Ourcade/supertommy. 
@@ -83,6 +114,3 @@ The app is written within the Monaca Platform using jQuery Mobile JavaScript fra
 
 ![](/images/loteria_screenshot.png)
 
-
-## Test This!
-## Overview
