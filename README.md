@@ -1,7 +1,7 @@
 # t Will Gillis Portfolio
 Portfolio
 
-[Project 4](#project-4)
+- [Project 4](#project-4)
 
 # Project 1: [Date-A-Scientist](https://github.com/t-will-gillis/portfolio-ok_cupid_date-a-scientist/blob/main/date-a-scientist.ipynb) 
 #### Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Sklearn
