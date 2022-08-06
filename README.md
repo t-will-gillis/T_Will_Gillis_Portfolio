@@ -1,16 +1,16 @@
 # t Will Gillis Portfolio
 Portfolio
 
-# Python Developer Projects:
-- [Project 1:](#project-1-date-a-scientist)
-- [Project 2:](#project-2-orion-constellation-and-supplement)
-- [Project 3:](#project-3-life-expectancy-vs-gdp)
+### Python Developer Projects:
+- [Project 1: Date-A-Scientist](#project-1-date-a-scientist)
+- [Project 2: Orion Constellation](#project-2-orion-constellation-and-supplement)
+- [Project 3: Life Expectancy vs GDP](#project-3-life-expectancy-vs-gdp)
 
-# Software Developer Projects:
-- [Project 4:](#project-4-appointment-maker)
-- [Project 5:](#project-5-concentration)
-- [Project 6:](#project-6-mobile-app)
-- [Project 7:](#project-7-loteria-game)
+### Software Developer Projects:
+- [Project 4: Appointment Maker](#project-4-appointment-maker)
+- [Project 5: Concentration](#project-5-concentration)
+- [Project 6: Mobile App](#project-6-mobile-app)
+- [Project 7: Loteria](#project-7-loteria-game)
 
 
 # Project 1: [Date-A-Scientist](https://github.com/t-will-gillis/portfolio-ok_cupid_date-a-scientist/blob/main/date-a-scientist.ipynb) 
