@@ -70,16 +70,15 @@ The Natural Language Processing learning exercise results in a model that makes 
 ![](/images/life-gdp_pc_per_country_per_year.png)
 
 
-# Project 4: [Yelp App](https://github.com/t-will-gillis/CBDB)
+# Project 4: [Yelp App]
 #### ReactJS, JavaScript, HTML/CSS 
 
-**Description:**  
+**Description:** Coming soon.
 
 
 - **Code:** ReactJS, Javascript, HTML/CSS, Yelp API
 
 
-![](/images/Screenshots.png)
 
 
 # Project 5: [Mobile App](https://github.com/t-will-gillis/CBDB)
@@ -106,18 +105,16 @@ The app is written within the Monaca Platform using jQuery Mobile JavaScript fra
 ![](/images/appointment_screenshot.png)
 
 
-# Project 7: [Concentration](https://github.com/t-will-gillis/CBDB)
+# Project 7: [Concentration]
 #### ReactJS, NodeJS, JavaScript, HTML/CSS
 
-**Description:** 
+**Description:** Coming soon
 
 
 
 - **Code:** ReactJS, JavaScript, HTML, CSS
 - **Packages/ Platforms:** Redux, NodeJS
 
-
-![](/images/concentration_screenshot.png)
 
 
 # Project 8: [Loteria Game](https://github.com/t-will-gillis/loteria-game)
