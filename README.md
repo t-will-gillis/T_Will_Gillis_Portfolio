@@ -7,11 +7,9 @@ Portfolio
 - [Project 3: Life Expectancy vs GDP](#project-3-life-expectancy-vs-gdp)
 
 ### Software Developer Projects:
-- [Project 4: Yelp App](#project-4-yelp-app)
-- [Project 5: Mobile App](#project-5-mobile-app)
-- [Project 6: Appointment Maker](#project-6-appointment-maker)
-- [Project 7: Concentration](#project-7-concentration)
-- [Project 8: Loteria](#project-8-loteria-game)
+- [Project 4: Mobile App](#project-4-mobile-app)
+- [Project 5: Appointment Maker](#project-5-appointment-maker)
+- [Project 6: Loteria](#project-6-loteria-game)
 
 
 # Project 1: [Date-A-Scientist](https://github.com/t-will-gillis/portfolio-ok_cupid_date-a-scientist/blob/main/date-a-scientist.ipynb) 
@@ -70,18 +68,7 @@ The Natural Language Processing learning exercise results in a model that makes 
 ![](/images/life-gdp_pc_per_country_per_year.png)
 
 
-# Project 4: [Yelp App]
-#### ReactJS, JavaScript, HTML/CSS 
-
-**Description:** Coming soon.
-
-
-- **Code:** ReactJS, Javascript, HTML/CSS, Yelp API
-
-
-
-
-# Project 5: [Mobile App](https://github.com/t-will-gillis/CBDB)
+# Project 4: [Mobile App](https://github.com/t-will-gillis/CBDB)
 #### HTML, CSS, JavaScript, jQuery Mobile, MongoDB, Monaca Mobile App Platform
 
 **Description:** Mobile application, here specifically a 'Comic Book Data Base.' The link is to the index.html, stylesheet.css, main.js files, as well as to the Android APK. The app features a user registration and login with strong password checking, forms for entering collection data, saving data using MongoDB nonrelational database management system, data edit and retrieval, and logout. 
@@ -94,7 +81,7 @@ The app is written within the Monaca Platform using jQuery Mobile JavaScript fra
 ![](/images/Screenshots.png)
 
 
-# Project 6: [Appointment Maker](https://t-will-gillis.github.io/appointment_maker_v5/)
+# Project 5: [Appointment Maker](https://t-will-gillis.github.io/appointment_maker_v5/)
 #### ReactJS, NodeJS, JavaScript, HTML/CSS
 
 **Description:** Appointment maker app. [Link to code](https://github.com/t-will-gillis/appointment_maker_v5_code)
@@ -105,19 +92,7 @@ The app is written within the Monaca Platform using jQuery Mobile JavaScript fra
 ![](/images/appointment_screenshot.png)
 
 
-# Project 7: [Concentration]
-#### ReactJS, NodeJS, JavaScript, HTML/CSS
-
-**Description:** Coming soon
-
-
-
-- **Code:** ReactJS, JavaScript, HTML, CSS
-- **Packages/ Platforms:** Redux, NodeJS
-
-
-
-# Project 8: [Loteria Game](https://github.com/t-will-gillis/loteria-game)
+# Project 6: [Loteria Game](https://github.com/t-will-gillis/loteria-game)
 #### HTML, JavaScript, Phaser3
 
 **Description:** This is a link to a zip file for a simple Phaser3 game of Loteria, with code built from the base file phaser3-parcel-template framework from Ourcade/supertommy. 
