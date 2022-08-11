@@ -94,7 +94,7 @@ The app is written within the Monaca Platform using jQuery Mobile JavaScript fra
 ![](/images/Screenshots.png)
 
 
-# Project 6: [Appointment Maker](https://github.com/t-will-gillis/appointment_maker_v5)
+# Project 6: [Appointment Maker](https://t-will-gillis.github.io/appointment_maker_v5/)
 #### ReactJS, NodeJS, JavaScript, HTML/CSS
 
 **Description:** Appointment maker
