@@ -26,7 +26,7 @@ Portfolio
 The Natural Language Processing learning exercise results in a model that makes the correct prediction an average of 1.8/10 times, very slightly better performance compared to guessing (where 1/10 times is expected.) Note again that this is a learning exercise using available but not entirely adequate data, and as such this exercise is considered successful. To train the model for more accurate results, the users' essays should be longer than the one or two sentences here. 
 
 - **Code:** Python, Jupyter Notebook
-- **Packages:** Pandas, NumPy, Matplolib, Seaborn, Sklearn 
+- **Packages:** Pandas, NumPy, Matplolib, Seaborn, Sklearn (Logistic Regression, K Neighbors, Decision Tree, Random Forest, Naive Bayes)
 - **Data Source:** Raw data for this project data provided by OKCupid app via Codecademy. 
 
 
@@ -46,8 +46,8 @@ The Natural Language Processing learning exercise results in a model that makes 
 **Conclusions:** With Axes3D and the custom processing program, any group of stars can be shown in a true orientation that demonstrates the actual relationship among the sample of stars. For examples, the four primary stars of Betelgeuse, Bellatrix, Rigel, and Saiph are all visualized to be much closer to earth than the belt and other stars. Effective visualization is crucial for data analysts and scientists.
 
 - **Code:** Python, Jupyter Notebook, Excel
-- **Packages:** Matplolib, Axes3D
-- **Data Source:** Raw data for this project data provided by Codecademy, and open sourced from the internet. 
+- **Packages:** Matplotlib, Axes3D, Pandas, Numpy
+- **Data Source:** Raw data for this project data provided by Codecademy, and additional data researched and open-sourced from the internet. 
 
 ![](/images/orion_3-dr.png)
 
@@ -57,13 +57,13 @@ The Natural Language Processing learning exercise results in a model that makes 
 
 **Main goal:** Use Python and Jupyter Notebook to explore relationship between Life Expectancy and GDP for six representative countries over 15 years.
 
-**Preprocessing:** The provided data did not include population, therefore population data for the relevant countries/ years were downloaded from UN data via the internet.
+**Preprocessing:** The provided data did not include population, therefore population data for the relevant countries/ years were downloaded from UN data via the internet, imported and processed in Microsoft Excel, and then imported into Pandas.
 
 **Conclusions:** Adjusting GDP for population (i.e. per capita) shows Mexico performing better than China in life expectancy, and Germany with a near equivalent per capita GDP but longer life expectancy than the US. Chile is outperforming all countries on life expectancy to per capita GDP, which would seem to say that maximizing GDP does not automatically maximize life expectancy.
 
 - **Code:** Python, Jupyter Notebook, Excel
-- **Packages:** Matplolib
-- **Data Source:** Raw data for this project data provided by Codecademy, and downloaded from UN data via the internet. 
+- **Packages:** Matplotlib, Pandas, NumPy, Seaborn
+- **Data Source:** Raw data for this project data provided by Codecademy, with additional data researched and downloaded from UN via the internet. 
 
 ![](/images/life-gdp_pc_per_country_per_year.png)
 
