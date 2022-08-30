@@ -2,7 +2,7 @@
 Portfolio
 
 ### Python Developer Projects:
-- [Project 0: Python Flask Beer Rating App](#project-0-python-flask-beer-rating-app)
+- [Project 0: Python Flask App](#project-0-python-flask-beer-rating-app)
 - [Project 1: Date-A-Scientist](#project-1-date-a-scientist)
 - [Project 2: Orion Constellation](#project-2-orion-constellation-and-supplement)
 - [Project 3: Life Expectancy vs GDP](#project-3-life-expectancy-vs-gdp)
@@ -12,7 +12,7 @@ Portfolio
 - [Project 5: Appointment Maker](#project-5-appointment-maker)
 - [Project 6: Loteria](#project-6-loteria-game)
 
-# Project 0: [Python Flask Beer Rating App(https://github.com/t-will-gillis/beer_rater_app)
+# Project 0: [Python Flask App](https://github.com/t-will-gillis/beer_rater_app)
 #### Python, Flask, HTML/CSS, SQLite
 
 **Description:** MVP posting soon
