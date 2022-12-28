@@ -20,7 +20,7 @@ Portfolio
 - **Code:** Python, HTML, CSS
 - **Packages:** Jinja2 Template, Flask-WTForms, SQLAlchemy ORM, SQLite, PostgreSQL, ~~Heroku~~
 
-![](/images/beer_rater_screen2.png)
+![](/images/beer_rater_screen2r.png)
 ![](/images/beer_rater_screen.png)
 
 # Project 1: [Date-A-Scientist](https://github.com/t-will-gillis/portfolio-ok_cupid_date-a-scientist/blob/main/date-a-scientist.ipynb) 
