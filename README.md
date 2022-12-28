@@ -13,12 +13,14 @@ Portfolio
 - [Project 6: Loteria](#project-6-loteria-game)
 
 # Project 0: [Python Flask App](https://github.com/t-will-gillis/beer_rater_app)
-#### Python, Flask, HTML/CSS, SQLite, PostgreSQL, ~~Heroku~~
+#### Python, Flask, HTML/CSS, SQLite, PostgreSQL, ~~Heroku~~ *
 
-**Description:** App for cataloging beers. Non-users are able to review the ratings, and users are able to log in, add breweries, add beers, and add reviews. Admin user is allowed full CRUD access. This is created using the Flask Python miniframework, Jinja templates, Flask-WTForms, SQLAlchemy, SQLite and ~~when deployed on Heroku,~~ PostgreSQL. *Note: Previous hosting on Heroku has been discontinued. New hosting to be implemented shortly.*
+**Description:** App for cataloging beers. Non-users are able to review the ratings, and users are able to log in, add breweries, add beers, and add reviews. Admin user is allowed full CRUD access. This is created using the Flask Python miniframework, Jinja templates, Flask-WTForms, SQLAlchemy, SQLite and ~~when deployed on Heroku,~~ * PostgreSQL.  
+
+\* *Note: Previous hosting on Heroku has been discontinued. New hosting to be implemented shortly.*
 
 - **Code:** Python, HTML, CSS
-- **Packages:** Jinja2 Template, Flask-WTForms, SQLAlchemy ORM, SQLite, PostgreSQL, ~~Heroku~~
+- **Packages:** Jinja2 Template, Flask-WTForms, SQLAlchemy ORM, SQLite, PostgreSQL, ~~Heroku~~ *
 
 ![](/images/beer_rater_screen2r.png)
 ![](/images/beer_rater_screen.png)
