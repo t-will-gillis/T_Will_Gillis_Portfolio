@@ -6,11 +6,12 @@ Portfolio
 - [Project 1: Date-A-Scientist](#project-1-date-a-scientist)
 - [Project 2: Orion Constellation](#project-2-orion-constellation-and-supplement)
 - [Project 3: Life Expectancy vs GDP](#project-3-life-expectancy-vs-gdp)
+- [Project 4: Automatic Issue Generator](#project-4-auto-issue-generator)
 
 ### Software Developer Projects:
-- [Project 4: Mobile App](#project-4-mobile-app)
-- [Project 5: Appointment Maker](#project-5-appointment-maker)
-- [Project 6: Loteria](#project-6-loteria-game)
+- [Project 5: Mobile App](#project-5-mobile-app)
+- [Project 6: Appointment Maker](#project-6-appointment-maker)
+- [Project 7: Loteria](#project-7-loteria-game)
 
 # Project 0: [Python Flask App](https://github.com/t-will-gillis/beer_rater_app)
 #### Python, Flask, HTML/CSS, SQLite, PostgreSQL
@@ -80,9 +81,16 @@ The Natural Language Processing learning exercise results in a model that makes 
 
 ![](/images/life-gdp_pc_per_country_per_year.png)
 
+# Project 4: [Auto Issue Generator](https://github.com/t-will-gillis/HfLA-Issue-Generator)
+#### Python, PDF
 
-# Project 4: [Mobile App](https://github.com/t-will-gillis/CBDB)
+**Description:** Multiple issue generator for GitHub. This can be used for creating mulitple, repetitive minor issues within minutes. 
+![issue_template_ex_4777_50](https://github.com/t-will-gillis/T_Will_Gillis_Portfolio/assets/40799239/0f046523-2349-4f5a-b24d-820c78521fc1)
+
+
+# Project 5: [Mobile App](https://github.com/t-will-gillis/CBDB)
 #### HTML, CSS, JavaScript, jQuery Mobile, MongoDB, Monaca Mobile App Platform
+
 
 **Description:** Mobile application, here specifically a 'Comic Book Data Base.' The link is to the index.html, stylesheet.css, main.js files, as well as to the Android APK. The app features a user registration and login with strong password checking, forms for entering collection data, saving data using MongoDB nonrelational database management system, data edit and retrieval, and logout. 
 
@@ -94,7 +102,7 @@ The app is written within the Monaca Platform using jQuery Mobile JavaScript fra
 ![](/images/Screenshots.png)
 
 
-# Project 5: [Appointment Maker](https://t-will-gillis.github.io/appointment_maker_v5/)
+# Project 6: [Appointment Maker](https://t-will-gillis.github.io/appointment_maker_v5/)
 #### ReactJS, NodeJS, JavaScript, HTML/CSS
 
 **Description:** Appointment maker app. [Link to code](https://github.com/t-will-gillis/appointment_maker_v5_code)
@@ -105,7 +113,7 @@ The app is written within the Monaca Platform using jQuery Mobile JavaScript fra
 ![](/images/appointment_screenshot.png)
 
 
-# Project 6: [Loteria Game](https://github.com/t-will-gillis/loteria-game)
+# Project 7: [Loteria Game](https://github.com/t-will-gillis/loteria-game)
 #### HTML, JavaScript, Phaser3
 
 **Description:** This is a link to a zip file for a simple Phaser3 game of Loteria, with code built from the base file phaser3-parcel-template framework from Ourcade/supertommy. 
