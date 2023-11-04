@@ -16,7 +16,7 @@ Portfolio
 # Project 0: [Python Flask App](https://github.com/t-will-gillis/beer_rater_app)
 #### Python, Flask, HTML/CSS, SQLite, PostgreSQL
 
-**Description:** App for cataloging beers. Non-users are able to review the ratings, and users are able to log in, add breweries, add beers, and add reviews. Admin user is allowed full CRUD access. This is created using the Flask Python miniframework, Jinja templates, Flask-WTForms, SQLAlchemy, SQLite and PostgreSQL.  
+**Description:** App for cataloging beers. Non-users are able to review the ratings, and users are able to log in, add breweries, add beers, and add reviews. Admin user is allowed full access to REST API. This is created using the Flask Python miniframework, Jinja templates, Flask-WTForms, SQLAlchemy, SQLite and PostgreSQL.  
 
 [Flask Beer Rater App](https://twillgillis.pythonanywhere.com/)
 
