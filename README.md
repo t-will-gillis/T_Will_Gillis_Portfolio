@@ -82,7 +82,7 @@ The Natural Language Processing learning exercise results in a model that makes 
 ![](/images/life-gdp_pc_per_country_per_year.png)
 
 # Project 4: [Auto Issue Generator](https://github.com/t-will-gillis/HfLA-Issue-Generator)
-#### Python, PDF
+#### Python, PDF, GitHub API
 
 **Description:** Multiple issue generator for GitHub. This can be used for creating mulitple, repetitive minor issues within minutes. 
 ![issue_template_ex_4777_50](https://github.com/t-will-gillis/T_Will_Gillis_Portfolio/assets/40799239/0f046523-2349-4f5a-b24d-820c78521fc1)
